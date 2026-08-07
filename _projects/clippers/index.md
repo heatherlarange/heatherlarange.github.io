@@ -8,5 +8,5 @@ skills:
   - Hypothesis Testing
   - Retrospective Study
 
-main-image: /sonos.png
+main-image: /clippers_pic.png
 ---

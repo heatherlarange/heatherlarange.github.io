@@ -9,7 +9,7 @@ skills:
   - Circuits
   - Laser Cutting
 
-main-image: /Cornerstone Design Report.pdf
+main-image: /cornerstone_proto.png
 ---
 
 ---

@@ -10,5 +10,5 @@ skills:
   - Data Visualization
   - Data Analysis
 
-main-image: /project2.jpg
+main-image: /dep_anx_pic.png
 ---

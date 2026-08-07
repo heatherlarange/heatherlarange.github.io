@@ -13,5 +13,5 @@ skills:
   - Data Visualization
   - Data Analysis
 
-main-image: /project2.jpg
+main-image: /field.png
 ---
