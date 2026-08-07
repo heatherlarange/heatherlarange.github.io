@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Motion Detected Device Holder
+order: 2
 description:
     Developing the Device Holder project involves designing a rotating platform and device stands, programming motion sensors with Pico Kit, and working out correct angles of movement for seamless display.
 skills: 
