@@ -18,7 +18,7 @@ main-image: /clippers_pic.png
 ---
 
 ## PDF Link to Intro
-<a href="/_projects/clippers/Clippers_Project_Proposal.pdf" target="_blank">View Project Proposal (PDF)</a>
+<a href="/_projects/clippers/Clippers_Project_Proposal.pdf" target="_blank">View Project Intro (PDF)</a>
 
 
 ## PDF Link to Report
