@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Motion Detected Device Holder
+description:
+    Developing the Device Holder project involves designing a rotating platform and device stands, programming motion sensors with Pico Kit, and working out correct angles of movement for seamless display.
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Python
+  - AutoCAD
+  - Circuits
+  - Laser Cutting
 
 main-image: /project2.jpg
 ---
