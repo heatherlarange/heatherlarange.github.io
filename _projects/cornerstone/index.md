@@ -22,5 +22,4 @@ main-image: /cornerstone_proto.png
 ---
 
 ## PDF Link to Report
-<iframe src="/Cornerstone_Design_Report.pdf" class="pdf-viewer"></iframe>
-
+<a href="/_projects/cornerstone/Cornerstone_Design_Report.pdf" target="_blank">View Project Proposal (PDF)</a>
