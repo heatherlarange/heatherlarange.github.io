@@ -21,5 +21,5 @@ main-image: /clippers_pic.png
 <iframe src="/Clippers_Project_Proposal.pdf" class="pdf-viewer"></iframe>
 
 
-## Link to Report
+## PDF Link to Report
 <iframe src="/Clippers_Project_Report.pdf" class="pdf-viewer"></iframe>
