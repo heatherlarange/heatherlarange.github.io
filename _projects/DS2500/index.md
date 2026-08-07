@@ -22,5 +22,5 @@ main-image: /field.png
 
 ---
 
-## PDF Link to GitHub
+## Link to GitHub
 [GitHub](https://github.com/heatherlarange/DS2500-Project)

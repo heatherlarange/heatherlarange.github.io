@@ -20,7 +20,8 @@ main-image: /dep_anx_pic.png
 ---
 
 ## PDF Link to Paper
-Project_Final_Proposal.pdf
+<iframe src="Project_Final_Paper.pdf" class="pdf-viewer"></iframe>
+
 
 ## Link to Report
-Project_Final_Report.pdf
+<iframe src="Project_Final_Report.pdf" class="pdf-viewer"></iframe>

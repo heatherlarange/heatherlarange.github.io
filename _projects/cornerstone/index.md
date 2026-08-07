@@ -22,4 +22,5 @@ main-image: /cornerstone_proto.png
 ---
 
 ## PDF Link to Report
-Cornerstone_Design_Report.pdf
+<iframe src="Cornerstone_Design_Report.pdf" class="pdf-viewer"></iframe>
+
