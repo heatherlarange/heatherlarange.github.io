@@ -18,8 +18,8 @@ main-image: /clippers_pic.png
 ---
 
 ## PDF Link to Intro
-<iframe src="Clippers_Project_Proposal.pdf" class="pdf-viewer"></iframe>
+<iframe src="/Clippers_Project_Proposal.pdf" class="pdf-viewer"></iframe>
 
 
 ## Link to Report
-<iframe src="Clippers_Project_Report.pdf" class="pdf-viewer"></iframe>
+<iframe src="/Clippers_Project_Report.pdf" class="pdf-viewer"></iframe>
