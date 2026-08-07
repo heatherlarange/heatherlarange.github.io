@@ -10,3 +10,15 @@ skills:
 
 main-image: /clippers_pic.png
 ---
+
+---
+
+<br>
+
+---
+
+## PDF Link to Intro
+Clippers_Project_Proposal.pdf
+
+## Link to Report
+Clippers_Project_Report.pdf

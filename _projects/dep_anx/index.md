@@ -12,3 +12,15 @@ skills:
 
 main-image: /dep_anx_pic.png
 ---
+
+---
+
+<br>
+
+---
+
+## PDF Link to Paper
+Project_Final_Proposal.pdf
+
+## Link to Report
+Project_Final_Report.pdf
